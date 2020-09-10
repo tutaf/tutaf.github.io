@@ -3,9 +3,10 @@
 
 ### My apps / Мои приложения:
 
-[Mark counter / Счетчик оценок](https://play.google.com/store/apps/details?id=com.tutam.markcounter)
+Mark counter / Счетчик оценок: [Google Play](https://play.google.com/store/apps/details?id=com.tutam.markcounter)
 
-[Other apps / Другие приложения](https://play.google.com/store/apps/dev?id=6038657317309874940)
+Other apps / Другие приложения: [Google Play](https://play.google.com/store/apps/dev?id=6038657317309874940)
+
 
 
 ### Contacts / Контакты:
