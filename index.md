@@ -1,14 +1,14 @@
 # chernishoff
 
 
-My apps:
+### My apps / Мои приложения:
 
-[Mark counter](https://play.google.com/store/apps/details?id=com.tutam.markcounter)
+[Mark counter / Счетчик оценок](https://play.google.com/store/apps/details?id=com.tutam.markcounter)
 
-[Other apps](https://play.google.com/store/apps/dev?id=6038657317309874940)
+[Other apps / Другие приложения](https://play.google.com/store/apps/dev?id=6038657317309874940)
 
 
-My contacts:
+### Contacts / Контакты:
 
 Email: [chernishoff.15@gmail.com](mailto:chernishoff.15@gmail.com)
 
