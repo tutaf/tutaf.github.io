@@ -1,8 +1,11 @@
-# Pro-версия бесплатно
-### Помоги разработчику и получи pro-версию приложения "Счетчик оценок" бесплатно ###
-Помочь мне можно переведя приложение на другой язык (любой) или предложив идею приложения. Свяжитесь со мной, предложите помощь с переводом или идею приложения, а я дам вам ключ на pro-версию.
+# chernishoff
 
+My apps:
+[Mark counter](https://play.google.com/store/apps/details?id=com.tutam.markcounter)
+[Other apps](https://play.google.com/store/apps/dev?id=6038657317309874940)
+
+
+My contacts:
 Email: [chernishoff.15@gmail.com](mailto:chernishoff.15@gmail.com)
-
 Telegram: [tutaf](http://t.me/tutaf)
 
