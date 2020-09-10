@@ -3,7 +3,7 @@
 
 ### My apps / Мои приложения:
 
-Mark counter / Счетчик оценок: [Google Play](https://play.google.com/store/apps/details?id=com.tutam.markcounter), [Disabe ads / Отключить рекламу](disabe_ads.md)
+Mark counter / Счетчик оценок: [Google Play](https://play.google.com/store/apps/details?id=com.tutam.markcounter), [Disabe ads / Отключить рекламу](disabeads.md)
 
 Other apps / Другие приложения: [Google Play](https://play.google.com/store/apps/dev?id=6038657317309874940)
 
