@@ -1,0 +1,1114 @@
+{
+  "list": [
+    {
+      "id": 250,
+      "name": "Biologie",
+      "subject": 1,
+      "lang": "RO",
+      "grade": 8,
+      "year": 2019,
+      "size": 26014259,
+      "link": "http://ctice.md:8095/public/download.php?id=250"
+    },
+    {
+      "id": 251,
+      "name": "Биология",
+      "subject": 1,
+      "lang": "RU",
+      "grade": 8,
+      "year": 2019,
+      "size": 26350395,
+      "link": "http://ctice.md:8095/public/download.php?id=251"
+    },
+    {
+      "id": 386,
+      "name": "Chimie",
+      "subject": 2,
+      "lang": "RO",
+      "grade": 8,
+      "year": 2020,
+      "size": 36473529,
+      "link": "http://ctice.md:8095/public/download.php?id=386"
+    },
+    {
+      "id": 387,
+      "name": "Химия",
+      "subject": 2,
+      "lang": "RU",
+      "grade": 8,
+      "year": 2020,
+      "size": 35062585,
+      "link": "http://ctice.md:8095/public/download.php?id=387"
+    },
+    {
+      "id": 254,
+      "name": "Fizică",
+      "subject": 4,
+      "lang": "RO",
+      "grade": 8,
+      "year": 2019,
+      "size": 13004257,
+      "link": "http://ctice.md:8095/public/download.php?id=254"
+    },
+    {
+      "id": 255,
+      "name": "Физика",
+      "subject": 4,
+      "lang": "RU",
+      "grade": 8,
+      "year": 2019,
+      "size": 12133374,
+      "link": "http://ctice.md:8095/public/download.php?id=255"
+    },
+    {
+      "id": 256,
+      "name": "Geografie",
+      "subject": 6,
+      "lang": "RO",
+      "grade": 8,
+      "year": 2019,
+      "size": 25234086,
+      "link": "http://ctice.md:8095/public/download.php?id=256"
+    },
+    {
+      "id": 257,
+      "name": "География",
+      "subject": 6,
+      "lang": "RU",
+      "grade": 8,
+      "year": 2019,
+      "size": 20783345,
+      "link": "http://ctice.md:8095/public/download.php?id=257"
+    },
+    {
+      "id": 385,
+      "name": "Informatică",
+      "subject": 7,
+      "lang": "RO",
+      "grade": 8,
+      "year": 2020,
+      "size": 5666683,
+      "link": "http://ctice.md:8095/public/download.php?id=385"
+    },
+    {
+      "id": 421,
+      "name": "Информатика",
+      "subject": 7,
+      "lang": "RU",
+      "grade": 8,
+      "year": 2020,
+      "size": 6136385,
+      "link": "http://ctice.md:8095/public/download.php?id=421"
+    },
+    {
+      "id": 7,
+      "name": "English language",
+      "subject": 8,
+      "lang": "RU / RO",
+      "grade": 8,
+      "year": 2015,
+      "size": 15431717,
+      "link": "http://ctice.md:8095/public/download.php?id=7"
+    },
+    {
+      "id": 2,
+      "name": "Le français",
+      "subject": 9,
+      "lang": "RU / RO",
+      "grade": 8,
+      "year": 2015,
+      "size": 7913955,
+      "link": "http://ctice.md:8095/public/download.php?id=2"
+    },
+    {
+      "id": 261,
+      "name": "Български език",
+      "subject": 14,
+      "lang": "RU / RO",
+      "grade": 8,
+      "year": 2013,
+      "size": 8075961,
+      "link": "http://ctice.md:8095/public/download.php?id=261"
+    },
+    {
+      "id": 262,
+      "name": "Gagauz",
+      "subject": 12,
+      "lang": "RU / RO",
+      "grade": 8,
+      "year": 2019,
+      "size": 6590975,
+      "link": "http://ctice.md:8095/public/download.php?id=262"
+    },
+    {
+      "id": 263,
+      "name": "Limba română",
+      "subject": 13,
+      "lang": "RO",
+      "grade": 8,
+      "year": 2019,
+      "size": 52435487,
+      "link": "http://ctice.md:8095/public/download.php?id=263"
+    },
+    {
+      "id": 454,
+      "name": "Румынский язык",
+      "subject": 13,
+      "lang": "RU",
+      "grade": 8,
+      "year": 2016,
+      "size": 5485925,
+      "link": "http://ctice.md:8095/public/download.php?id=454"
+    },
+    {
+      "id": 264,
+      "name": "Русский язык",
+      "subject": 15,
+      "lang": "RU",
+      "grade": 8,
+      "year": 2019,
+      "size": 45833636,
+      "link": "http://ctice.md:8095/public/download.php?id=264"
+    },
+    {
+      "id": 265,
+      "name": "Українська мова",
+      "subject": 10,
+      "lang": "RU / RO",
+      "grade": 8,
+      "year": 2019,
+      "size": 9263041,
+      "link": "http://ctice.md:8095/public/download.php?id=265"
+    },
+    {
+      "id": 266,
+      "name": "Matematică",
+      "subject": 5,
+      "lang": "RO",
+      "grade": 8,
+      "year": 2019,
+      "size": 11891769,
+      "link": "http://ctice.md:8095/public/download.php?id=266"
+    },
+    {
+      "id": 267,
+      "name": "Математика",
+      "subject": 5,
+      "lang": "RU",
+      "grade": 8,
+      "year": 2019,
+      "size": 12024686,
+      "link": "http://ctice.md:8095/public/download.php?id=267"
+    },
+    {
+      "id": 60,
+      "name": "Chimie",
+      "subject": 2,
+      "lang": "RO",
+      "grade": 9,
+      "year": 2016,
+      "size": 33436830,
+      "link": "http://ctice.md:8095/public/download.php?id=60"
+    },
+    {
+      "id": 108,
+      "name": "Химия",
+      "subject": 2,
+      "lang": "RU",
+      "grade": 9,
+      "year": 2016,
+      "size": 29281116,
+      "link": "http://ctice.md:8095/public/download.php?id=108"
+    },
+    {
+      "id": 19,
+      "name": "Educație civică",
+      "subject": 17,
+      "lang": "RO",
+      "grade": 9,
+      "year": 2014,
+      "size": 5343749,
+      "link": "http://ctice.md:8095/public/download.php?id=19"
+    },
+    {
+      "id": 112,
+      "name": " Гражданское воспитание",
+      "subject": 17,
+      "lang": "RU",
+      "grade": 9,
+      "year": 2014,
+      "size": 5019865,
+      "link": "http://ctice.md:8095/public/download.php?id=112"
+    },
+    {
+      "id": 59,
+      "name": "Educația tehnologică",
+      "subject": 16,
+      "lang": "RO",
+      "grade": 9,
+      "year": 2014,
+      "size": 66762462,
+      "link": "http://ctice.md:8095/public/download.php?id=59"
+    },
+    {
+      "id": 56,
+      "name": "Технологическое воспитание",
+      "subject": 16,
+      "lang": "RU",
+      "grade": 9,
+      "year": 2014,
+      "size": 67012355,
+      "link": "http://ctice.md:8095/public/download.php?id=56"
+    },
+    {
+      "id": 295,
+      "name": "Fizică",
+      "subject": 4,
+      "lang": "RO",
+      "grade": 9,
+      "year": 2018,
+      "size": 3106972,
+      "link": "http://ctice.md:8095/public/download.php?id=295"
+    },
+    {
+      "id": 296,
+      "name": "Физика",
+      "subject": 4,
+      "lang": "RU",
+      "grade": 9,
+      "year": 2018,
+      "size": 2105917,
+      "link": "http://ctice.md:8095/public/download.php?id=296"
+    },
+    {
+      "id": 111,
+      "name": "Geografie",
+      "subject": 6,
+      "lang": "RO",
+      "grade": 9,
+      "year": 2016,
+      "size": 99041258,
+      "link": "http://ctice.md:8095/public/download.php?id=111"
+    },
+    {
+      "id": 109,
+      "name": "География",
+      "subject": 6,
+      "lang": "RU",
+      "grade": 9,
+      "year": 2016,
+      "size": 94980122,
+      "link": "http://ctice.md:8095/public/download.php?id=109"
+    },
+    {
+      "id": 17,
+      "name": "Informatică",
+      "subject": 7,
+      "lang": "RO",
+      "grade": 9,
+      "year": 2016,
+      "size": 5551436,
+      "link": "http://ctice.md:8095/public/download.php?id=17"
+    },
+    {
+      "id": 64,
+      "name": "Информатика",
+      "subject": 7,
+      "lang": "RU",
+      "grade": 9,
+      "year": 2016,
+      "size": 5740596,
+      "link": "http://ctice.md:8095/public/download.php?id=64"
+    },
+    {
+      "id": 268,
+      "name": "Istorie",
+      "subject": 19,
+      "lang": "RO",
+      "grade": 9,
+      "year": 2013,
+      "size": 99244765,
+      "link": "http://ctice.md:8095/public/download.php?id=268"
+    },
+    {
+      "id": 269,
+      "name": "История",
+      "subject": 19,
+      "lang": "RU",
+      "grade": 9,
+      "year": 2013,
+      "size": 23293327,
+      "link": "http://ctice.md:8095/public/download.php?id=269"
+    },
+    {
+      "id": 65,
+      "name": "English language",
+      "subject": 8,
+      "lang": "RU / RO",
+      "grade": 9,
+      "year": 2015,
+      "size": 11903362,
+      "link": "http://ctice.md:8095/public/download.php?id=65"
+    },
+    {
+      "id": 61,
+      "name": "Le français",
+      "subject": 9,
+      "lang": "RU / RO",
+      "grade": 9,
+      "year": 2015,
+      "size": 10365176,
+      "link": "http://ctice.md:8095/public/download.php?id=61"
+    },
+    {
+      "id": 23,
+      "name": "Gagauz",
+      "subject": 12,
+      "lang": "RU / RO",
+      "grade": 9,
+      "year": 2016,
+      "size": 9086464,
+      "link": "http://ctice.md:8095/public/download.php?id=23"
+    },
+    {
+      "id": 67,
+      "name": "Румынский язык",
+      "subject": 13,
+      "lang": "RU",
+      "grade": 9,
+      "year": 2016,
+      "size": 20289771,
+      "link": "http://ctice.md:8095/public/download.php?id=67"
+    },
+    {
+      "id": 70,
+      "name": "Limba română",
+      "subject": 13,
+      "lang": "RO",
+      "grade": 9,
+      "year": 2016,
+      "size": 11071741,
+      "link": "http://ctice.md:8095/public/download.php?id=70"
+    },
+    {
+      "id": 119,
+      "name": "Українська мова",
+      "subject": 10,
+      "lang": "RU / RO",
+      "grade": 9,
+      "year": 2016,
+      "size": 17188093,
+      "link": "http://ctice.md:8095/public/download.php?id=119"
+    },
+    {
+      "id": 22,
+      "name": "Matematică",
+      "subject": 5,
+      "lang": "RO",
+      "grade": 9,
+      "year": 2016,
+      "size": 14013467,
+      "link": "http://ctice.md:8095/public/download.php?id=22"
+    },
+    {
+      "id": 97,
+      "name": "Математика",
+      "subject": 5,
+      "lang": "RU",
+      "grade": 9,
+      "year": 2016,
+      "size": 13334945,
+      "link": "http://ctice.md:8095/public/download.php?id=97"
+    },
+    {
+      "id": 388,
+      "name": "Biologie",
+      "subject": 1,
+      "lang": "RO",
+      "grade": 10,
+      "year": 2020,
+      "size": 34402314,
+      "link": "http://ctice.md:8095/public/download.php?id=388"
+    },
+    {
+      "id": 389,
+      "name": "Биология",
+      "subject": 1,
+      "lang": "RU",
+      "grade": 10,
+      "year": 2020,
+      "size": 34264570,
+      "link": "http://ctice.md:8095/public/download.php?id=389"
+    },
+    {
+      "id": 390,
+      "name": "Chimie",
+      "subject": 2,
+      "lang": "RO",
+      "grade": 10,
+      "year": 2020,
+      "size": 25034032,
+      "link": "http://ctice.md:8095/public/download.php?id=390"
+    },
+    {
+      "id": 391,
+      "name": "Химия",
+      "subject": 2,
+      "lang": "RU",
+      "grade": 10,
+      "year": 2020,
+      "size": 38751899,
+      "link": "http://ctice.md:8095/public/download.php?id=391"
+    },
+    {
+      "id": 57,
+      "name": "Educație civică",
+      "subject": 17,
+      "lang": "RO",
+      "grade": 10,
+      "year": 2012,
+      "size": 2420787,
+      "link": "http://ctice.md:8095/public/download.php?id=57"
+    },
+    {
+      "id": 89,
+      "name": "Гражданское воспитание",
+      "subject": 17,
+      "lang": "RU",
+      "grade": 10,
+      "year": 2012,
+      "size": 2270297,
+      "link": "http://ctice.md:8095/public/download.php?id=89"
+    },
+    {
+      "id": 373,
+      "name": "Educație pentru societate (X-XI)",
+      "subject": 17,
+      "lang": "RO",
+      "grade": 10,
+      "year": 2019,
+      "size": 39940847,
+      "link": "http://ctice.md:8095/public/download.php?id=373"
+    },
+    {
+      "id": 374,
+      "name": "Гражданское воспитание (X-XI)",
+      "subject": 17,
+      "lang": "RU",
+      "grade": 10,
+      "year": 2019,
+      "size": 45797649,
+      "link": "http://ctice.md:8095/public/download.php?id=374"
+    },
+    {
+      "id": 27,
+      "name": "Fizică",
+      "subject": 4,
+      "lang": "RO",
+      "grade": 10,
+      "year": 2012,
+      "size": 6817784,
+      "link": "http://ctice.md:8095/public/download.php?id=27"
+    },
+    {
+      "id": 90,
+      "name": "Физика",
+      "subject": 4,
+      "lang": "RU",
+      "grade": 10,
+      "year": 2012,
+      "size": 6737989,
+      "link": "http://ctice.md:8095/public/download.php?id=90"
+    },
+    {
+      "id": 433,
+      "name": "Geografie",
+      "subject": 6,
+      "lang": "RO",
+      "grade": 10,
+      "year": 2020,
+      "size": 43186117,
+      "link": "http://ctice.md:8095/public/download.php?id=433"
+    },
+    {
+      "id": 434,
+      "name": "География",
+      "subject": 6,
+      "lang": "RU",
+      "grade": 10,
+      "year": 2020,
+      "size": 42508219,
+      "link": "http://ctice.md:8095/public/download.php?id=434"
+    },
+    {
+      "id": 427,
+      "name": "Informatică",
+      "subject": 7,
+      "lang": "RO",
+      "grade": 10,
+      "year": 2020,
+      "size": 5820774,
+      "link": "http://ctice.md:8095/public/download.php?id=427"
+    },
+    {
+      "id": 428,
+      "name": "Информатика",
+      "subject": 7,
+      "lang": "RU",
+      "grade": 10,
+      "year": 2020,
+      "size": 4608907,
+      "link": "http://ctice.md:8095/public/download.php?id=428"
+    },
+    {
+      "id": 425,
+      "name": "Le français (Niveau A1)",
+      "subject": 9,
+      "lang": "RU / RO",
+      "grade": 10,
+      "year": 2020,
+      "size": 47369054,
+      "link": "http://ctice.md:8095/public/download.php?id=425"
+    },
+    {
+      "id": 407,
+      "name": "Le français (Niveau B1.1)",
+      "subject": 9,
+      "lang": "RU / RO",
+      "grade": 10,
+      "year": 2020,
+      "size": 15474822,
+      "link": "http://ctice.md:8095/public/download.php?id=407"
+    },
+    {
+      "id": 12,
+      "name": "English language",
+      "subject": 8,
+      "lang": "RU / RO",
+      "grade": 10,
+      "year": 2012,
+      "size": 128910574,
+      "link": "http://ctice.md:8095/public/download.php?id=12"
+    },
+    {
+      "id": 43,
+      "name": "Limba română",
+      "subject": 13,
+      "lang": "RO",
+      "grade": 10,
+      "year": 2012,
+      "size": 11921517,
+      "link": "http://ctice.md:8095/public/download.php?id=43"
+    },
+    {
+      "id": 91,
+      "name": "Румынский язык",
+      "subject": 13,
+      "lang": "RU",
+      "grade": 10,
+      "year": 2012,
+      "size": 121923039,
+      "link": "http://ctice.md:8095/public/download.php?id=91"
+    },
+    {
+      "id": 92,
+      "name": "Русский язык",
+      "subject": 15,
+      "lang": "RU",
+      "grade": 10,
+      "year": 2012,
+      "size": 172087144,
+      "link": "http://ctice.md:8095/public/download.php?id=92"
+    },
+    {
+      "id": 10,
+      "name": "Literatura universală",
+      "subject": 18,
+      "lang": "RO",
+      "grade": 10,
+      "year": 2012,
+      "size": 3942795,
+      "link": "http://ctice.md:8095/public/download.php?id=10"
+    },
+    {
+      "id": 180,
+      "name": "Всемирная литература",
+      "subject": 18,
+      "lang": "RU",
+      "grade": 10,
+      "year": 2017,
+      "size": 10256724,
+      "link": "http://ctice.md:8095/public/download.php?id=180"
+    },
+    {
+      "id": 26,
+      "name": "Matematică",
+      "subject": 5,
+      "lang": "RO",
+      "grade": 10,
+      "year": 2012,
+      "size": 6331829,
+      "link": "http://ctice.md:8095/public/download.php?id=26"
+    },
+    {
+      "id": 15,
+      "name": "Математика",
+      "subject": 5,
+      "lang": "RU",
+      "grade": 10,
+      "year": 2012,
+      "size": 7024587,
+      "link": "http://ctice.md:8095/public/download.php?id=15"
+    },
+    {
+      "id": 392,
+      "name": "Biologie",
+      "subject": 1,
+      "lang": "RO",
+      "grade": 11,
+      "year": 2020,
+      "size": 19922915,
+      "link": "http://ctice.md:8095/public/download.php?id=392"
+    },
+    {
+      "id": 393,
+      "name": "Биология",
+      "subject": 1,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2020,
+      "size": 20110220,
+      "link": "http://ctice.md:8095/public/download.php?id=393"
+    },
+    {
+      "id": 432,
+      "name": "Chimie",
+      "subject": 2,
+      "lang": "RO",
+      "grade": 11,
+      "year": 2020,
+      "size": 115190245,
+      "link": "http://ctice.md:8095/public/download.php?id=432"
+    },
+    {
+      "id": 411,
+      "name": "Химия",
+      "subject": 2,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2020,
+      "size": 46545891,
+      "link": "http://ctice.md:8095/public/download.php?id=411"
+    },
+    {
+      "id": 35,
+      "name": "Educaţie civică",
+      "subject": 17,
+      "lang": "RO",
+      "grade": 11,
+      "year": 2013,
+      "size": 21546603,
+      "link": "http://ctice.md:8095/public/download.php?id=35"
+    },
+    {
+      "id": 48,
+      "name": "Гражданское воспитание",
+      "subject": 17,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2013,
+      "size": 20711038,
+      "link": "http://ctice.md:8095/public/download.php?id=48"
+    },
+    {
+      "id": 375,
+      "name": "Educație pentru societate (X-XI)",
+      "subject": 17,
+      "lang": "RO",
+      "grade": 11,
+      "year": 2019,
+      "size": 39940847,
+      "link": "http://ctice.md:8095/public/download.php?id=375"
+    },
+    {
+      "id": 377,
+      "name": "Гражданское воспитание (X-XI)",
+      "subject": 17,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2019,
+      "size": 45797649,
+      "link": "http://ctice.md:8095/public/download.php?id=377"
+    },
+    {
+      "id": 30,
+      "name": "English language",
+      "subject": 8,
+      "lang": "RU / RO",
+      "grade": 11,
+      "year": 2014,
+      "size": 85707624,
+      "link": "http://ctice.md:8095/public/download.php?id=30"
+    },
+    {
+      "id": 416,
+      "name": "Fizică",
+      "subject": 4,
+      "lang": "RO",
+      "grade": 11,
+      "year": 2020,
+      "size": 7709885,
+      "link": "http://ctice.md:8095/public/download.php?id=416"
+    },
+    {
+      "id": 417,
+      "name": "Физика",
+      "subject": 4,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2020,
+      "size": 8377125,
+      "link": "http://ctice.md:8095/public/download.php?id=417"
+    },
+    {
+      "id": 21,
+      "name": "Geografie",
+      "subject": 6,
+      "lang": "RO",
+      "grade": 11,
+      "year": 2014,
+      "size": 756271613,
+      "link": "http://ctice.md:8095/public/download.php?id=21"
+    },
+    {
+      "id": 451,
+      "name": "География (часть 1)",
+      "subject": 6,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2014,
+      "size": 27257220,
+      "link": "http://ctice.md:8095/public/download.php?id=451"
+    },
+    {
+      "id": 452,
+      "name": "География (часть 2)",
+      "subject": 6,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2014,
+      "size": 16846041,
+      "link": "http://ctice.md:8095/public/download.php?id=452"
+    },
+    {
+      "id": 445,
+      "name": "Informatică",
+      "subject": 7,
+      "lang": "RO",
+      "grade": 11,
+      "year": 2020,
+      "size": 6525951,
+      "link": "http://ctice.md:8095/public/download.php?id=445"
+    },
+    {
+      "id": 441,
+      "name": "Информатика",
+      "subject": 7,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2020,
+      "size": 3585389,
+      "link": "http://ctice.md:8095/public/download.php?id=441"
+    },
+    {
+      "id": 439,
+      "name": "Istoria",
+      "subject": 19,
+      "lang": "RO",
+      "grade": 11,
+      "year": 2020,
+      "size": 33892796,
+      "link": "http://ctice.md:8095/public/download.php?id=439"
+    },
+    {
+      "id": 440,
+      "name": "История",
+      "subject": 19,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2020,
+      "size": 42119729,
+      "link": "http://ctice.md:8095/public/download.php?id=440"
+    },
+    {
+      "id": 435,
+      "name": "Le français (Niveau A2.1)",
+      "subject": 9,
+      "lang": "RU / RO",
+      "grade": 11,
+      "year": 2020,
+      "size": 46179799,
+      "link": "http://ctice.md:8095/public/download.php?id=435"
+    },
+    {
+      "id": 438,
+      "name": "Le français (Niveau B1.2)",
+      "subject": 9,
+      "lang": "RU / RO",
+      "grade": 11,
+      "year": 2020,
+      "size": 14377026,
+      "link": "http://ctice.md:8095/public/download.php?id=438"
+    },
+    {
+      "id": 45,
+      "name": "Румынский язык",
+      "subject": 13,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2014,
+      "size": 13170380,
+      "link": "http://ctice.md:8095/public/download.php?id=45"
+    },
+    {
+      "id": 44,
+      "name": "Limba română",
+      "subject": 13,
+      "lang": "RO",
+      "grade": 11,
+      "year": 2014,
+      "size": 27292399,
+      "link": "http://ctice.md:8095/public/download.php?id=44"
+    },
+    {
+      "id": 85,
+      "name": "Русский язык",
+      "subject": 15,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2014,
+      "size": 302271388,
+      "link": "http://ctice.md:8095/public/download.php?id=85"
+    },
+    {
+      "id": 436,
+      "name": "Literatura universală",
+      "subject": 18,
+      "lang": "RO",
+      "grade": 11,
+      "year": 2020,
+      "size": 1986034,
+      "link": "http://ctice.md:8095/public/download.php?id=436"
+    },
+    {
+      "id": 437,
+      "name": "Всемираня литература",
+      "subject": 18,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2020,
+      "size": 2295164,
+      "link": "http://ctice.md:8095/public/download.php?id=437"
+    },
+    {
+      "id": 408,
+      "name": "Matematică",
+      "subject": 5,
+      "lang": "RO",
+      "grade": 11,
+      "year": 2020,
+      "size": 7311531,
+      "link": "http://ctice.md:8095/public/download.php?id=408"
+    },
+    {
+      "id": 409,
+      "name": "Математика",
+      "subject": 5,
+      "lang": "RU",
+      "grade": 11,
+      "year": 2020,
+      "size": 7610207,
+      "link": "http://ctice.md:8095/public/download.php?id=409"
+    },
+    {
+      "id": 169,
+      "name": "Biologie",
+      "subject": 1,
+      "lang": "RO",
+      "grade": 12,
+      "year": 2017,
+      "size": 10536386,
+      "link": "http://ctice.md:8095/public/download.php?id=169"
+    },
+    {
+      "id": 172,
+      "name": "Биология",
+      "subject": 1,
+      "lang": "RU",
+      "grade": 12,
+      "year": 2017,
+      "size": 10632782,
+      "link": "http://ctice.md:8095/public/download.php?id=172"
+    },
+    {
+      "id": 173,
+      "name": "Chimie",
+      "subject": 2,
+      "lang": "RO",
+      "grade": 12,
+      "year": 2017,
+      "size": 27372516,
+      "link": "http://ctice.md:8095/public/download.php?id=173"
+    },
+    {
+      "id": 194,
+      "name": "Химия",
+      "subject": 2,
+      "lang": "RU",
+      "grade": 12,
+      "year": 2017,
+      "size": 28381136,
+      "link": "http://ctice.md:8095/public/download.php?id=194"
+    },
+    {
+      "id": 174,
+      "name": "Fizică",
+      "subject": 4,
+      "lang": "RO",
+      "grade": 12,
+      "year": 2017,
+      "size": 10725553,
+      "link": "http://ctice.md:8095/public/download.php?id=174"
+    },
+    {
+      "id": 176,
+      "name": "Физика",
+      "subject": 4,
+      "lang": "RU",
+      "grade": 12,
+      "year": 2017,
+      "size": 10696490,
+      "link": "http://ctice.md:8095/public/download.php?id=176"
+    },
+    {
+      "id": 11,
+      "name": "Geografia",
+      "subject": 6,
+      "lang": "RO",
+      "grade": 12,
+      "year": 2015,
+      "size": 70500513,
+      "link": "http://ctice.md:8095/public/download.php?id=11"
+    },
+    {
+      "id": 39,
+      "name": "Informatică",
+      "subject": 7,
+      "lang": "RO",
+      "grade": 12,
+      "year": 2015,
+      "size": 37887429,
+      "link": "http://ctice.md:8095/public/download.php?id=39"
+    },
+    {
+      "id": 74,
+      "name": "Информатика",
+      "subject": 7,
+      "lang": "RU",
+      "grade": 12,
+      "year": 2015,
+      "size": 4131391,
+      "link": "http://ctice.md:8095/public/download.php?id=74"
+    },
+    {
+      "id": 354,
+      "name": "Istorie",
+      "subject": 19,
+      "lang": "RO",
+      "grade": 12,
+      "year": 2013,
+      "size": 66345828,
+      "link": "http://ctice.md:8095/public/download.php?id=354"
+    },
+    {
+      "id": 355,
+      "name": "История",
+      "subject": 19,
+      "lang": "RU",
+      "grade": 12,
+      "year": 2013,
+      "size": 66542435,
+      "link": "http://ctice.md:8095/public/download.php?id=355"
+    },
+    {
+      "id": 37,
+      "name": "English language",
+      "subject": 8,
+      "lang": "RU / RO",
+      "grade": 12,
+      "year": 2015,
+      "size": 5564243,
+      "link": "http://ctice.md:8095/public/download.php?id=37"
+    },
+    {
+      "id": 38,
+      "name": "Румынский язык",
+      "subject": 13,
+      "lang": "RU",
+      "grade": 12,
+      "year": 2015,
+      "size": 8489109,
+      "link": "http://ctice.md:8095/public/download.php?id=38"
+    },
+    {
+      "id": 41,
+      "name": "Limba română",
+      "subject": 13,
+      "lang": "RO",
+      "grade": 12,
+      "year": 2015,
+      "size": 17483237,
+      "link": "http://ctice.md:8095/public/download.php?id=41"
+    },
+    {
+      "id": 69,
+      "name": "Русский язык и литература",
+      "subject": 15,
+      "lang": "RU",
+      "grade": 12,
+      "year": 2015,
+      "size": 41042507,
+      "link": "http://ctice.md:8095/public/download.php?id=69"
+    },
+    {
+      "id": 249,
+      "name": "Всемирная литература XX века",
+      "subject": 18,
+      "lang": "RU",
+      "grade": 12,
+      "year": 2017,
+      "size": 3742918,
+      "link": "http://ctice.md:8095/public/download.php?id=249"
+    },
+    {
+      "id": 178,
+      "name": "Matematică",
+      "subject": 5,
+      "lang": "RO",
+      "grade": 12,
+      "year": 2017,
+      "size": 20029624,
+      "link": "http://ctice.md:8095/public/download.php?id=178"
+    },
+    {
+      "id": 186,
+      "name": "Математика",
+      "subject": 5,
+      "lang": "RU",
+      "grade": 12,
+      "year": 2017,
+      "size": 20086120,
+      "link": "http://ctice.md:8095/public/download.php?id=186"
+    }
+  ]
+}
