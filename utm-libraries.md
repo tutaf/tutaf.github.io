@@ -5,7 +5,7 @@
 * [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
 * [material-colors](https://github.com/mcginty/material-colors)
 * [DownloadProgress](https://github.com/aloj22/DownloadProgress)
-* [androidx.core.splashscreen](https://developer.android.com/reference/kotlin/androidx/core/splashscreen/package-summary)
+* [androidx.core.splashscreen](https://developer.android.com/reference/kotlin/androidx/core/splashscreen/SplashScreen)
 * [AppIntro](https://github.com/AppIntro/AppIntro)
 * [Android About Page](https://github.com/medyo/android-about-page)
 * [Gson](https://github.com/google/gson)
