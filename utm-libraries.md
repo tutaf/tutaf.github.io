@@ -12,3 +12,4 @@
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView)
 * [Markwon](https://github.com/noties/Markwon)
 * [Google Firebase](https://firebase.google.com/)
+* [TinyDB--Android-Shared-Preferences-Turbo](https://github.com/kcochibili/TinyDB--Android-Shared-Preferences-Turbo)
