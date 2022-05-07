@@ -1,7 +1,4 @@
-# chernishoff
-
-
-### My apps / Мои приложения:
+### My apps:
 
 [Google Play](https://play.google.com/store/apps/dev?id=6038657317309874940)
 
