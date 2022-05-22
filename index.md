@@ -4,7 +4,7 @@
 
 
 
-### Contacts / Контакты:
+### Contact me:
 
 Email: [chernishoff.15@gmail.com](mailto:chernishoff.15@gmail.com)
 
